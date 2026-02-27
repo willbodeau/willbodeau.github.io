@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Will Bodeau"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD student at TBD"
+  pronouns         : # example: "he/him"  
+  bio              : "Incoming PhD student"
   location         : "Los Angeles, CA"
-  employer         : "UCLA"
+  employer         : #"TBD"
   uri              : # URL
   email            : "willbodeau@gmail.com" 
 
