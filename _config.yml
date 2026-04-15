@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Will Bodeau"
 title_separator          : "-"
-name                     : &name "Will Bodeau - PhD Student in Statistics"
+name                     : &name "Will Bodeau - Ph.D. Student in Data Science"
 description              : &description "Will Bodeau's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://willbodeau.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Will Bodeau"
   pronouns         : # example: "he/him"  
-  bio              : "Incoming PhD student"
-  location         : "Los Angeles, CA"
-  employer         : #"TBD"
+  bio              : "Ph.D. Student in Data Science"
+  location         : "San Diego, CA"
+  employer         : "UC San Diego Halıcıoğlu Data Science Institute"
   uri              : # URL
   email            : "willbodeau@gmail.com" 
 
