@@ -303,9 +303,11 @@
     }
   }
 
-  li {
-    white-space: nowrap;
-  }
+
+   li {
+     word-wrap: break-word;
+     overflow-wrap: break-word;
+   }
 
   a {
     display: block;
