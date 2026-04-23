@@ -3,10 +3,9 @@ title: "Community-Engaged Course-Based Undergraduate Research of Multidrug Resis
 collection: publications
 category: manuscripts
 permalink: https://doi.org/10.1111/1758-2229.70151
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This study assesses multidrug resistance in E. coli from surface waters downstream of dairy and swine CAFOs in Michigan, finding MDR in up to 76% of isolates at livestock-impacted sites but absent at the unimpacted control. I contributed field sampling, disk diffusion analysis, and manuscript preparation.'
 date: 2025-07-30
 venue: 'Environmental Microbiology Reports'
-citation: 'Chowdhry, R., S.Jun, Y.Kong, et al. 2025. “Community-Engaged Course-Based Undergraduate Research of Multidrug Resistance in Escherichia coli in Water Near Dairy and Hog Farms in Michigan.” Environmental Microbiology Reports 17, no. 4: e70151. https://doi.org/10.1111/1758-2229.70151.'
 
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
