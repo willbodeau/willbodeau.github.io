@@ -3,6 +3,7 @@ title: "How does human subjectivity affect the reliability of single-cell RNA-se
 collection: publications
 category: manuscripts
 venue: 'Cell Systems'
+underreview: true
 excerpt: 'This study examines how analyst subjectivity affects scRNA-seq cell-type annotation, finding substantial variability across 37 participants and a 58% higher false positive rate when analysts expected specific rare cell types. I contributed statistical analysis of parameter tuning effects, characterization of analyst background influences on accuracy, and data preprocessing; under review at Cell Systems.'
 date: 2025-12-17
 ---
