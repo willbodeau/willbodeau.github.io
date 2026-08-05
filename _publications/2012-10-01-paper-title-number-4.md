@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 venue: 'Letters in Applied Microbiology'
 underreview: true
-excerpt: 'This study assesses antimicrobial and multidrug resistance in E. coli from the Tijuana River Estuary and San Diego recreational beaches, finding up to 60% multidrug resistance at sewage-impacted sites versus 3% at a reference beach, and showing that ESBL-EC, the WHO's proposed proxy for environmental AMR, poorly predicted multidrug-resistance burden (R² = 0.19). I contributed to field sampling, data curation, and disk diffusion analysis.'
+excerpt: 'This study assesses antimicrobial and multidrug resistance in E. coli from the Tijuana River Estuary and San Diego recreational beaches, finding up to 60% multidrug resistance at sewage-impacted sites versus 3% at a reference beach, and showing that ESBL-EC, the WHO''s proposed proxy for environmental AMR, poorly predicted multidrug-resistance burden (R² = 0.19). I contributed to field sampling, data curation, and disk diffusion analysis.'
 date: 2026-07-10
 ---
 
