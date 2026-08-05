@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 venue: 'Journal of Hazardous Materials'
 underreview: true
-excerpt: 'This study assesses antibiotic resistance and multidrug resistance in E. coli from surface waters near Wisconsin dairies and a calf ranch, finding up to 70% of isolates multidrug-resistant at CAFO-impacted sites versus 4% at unimpaired controls, with a modified IDEXX screening tool successfully flagging an ESBL-producing E. coli hotspot downstream of the calf ranch. I contributed to field sampling, data curation, and disk diffusion analysis.'
+excerpt: 'This study assesses antibiotic resistance and multidrug resistance in E. coli from surface waters near Wisconsin dairies and a calf ranch, finding up to 70% of isolates multidrug-resistant at CAFO-impacted sites versus 4% at unimpaired controls, with a modified IDEXX screening tool successfully flagging an ESBL-producing E. coli hotspot downstream of the calf ranch. I contributed to field sampling, data curation, disk diffusion analysis, and IDEXX analysis.'
 date: 2026-07-17
 ---
 
